@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ColorfulDesktopSelect.vcxproj" Id="b5bb0ffb-5160-4796-9899-e23d70aac6d7" />
+</Solution>
